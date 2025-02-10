@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaszKrygier <br>
 - 👀 I’m interested in web development, software development, and emerging tech like AI and blockchain. <br>
-- 🌱 I’m currently learning Python, C#, and exploring .NET frameworks. <br>
+- 🌱 I’m currently learning Python, Java, C#, and exploring .NET frameworks. <br>
 - 💞️ I’m looking to collaborate on web development projects, open-source initiatives, or anything involving creative coding! <br>
 - 📫 How to reach me: [Your email or LinkedIn profile link] <br>
 - 😄 Pronouns: He/Him <br>
